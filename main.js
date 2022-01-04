@@ -49,7 +49,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
          
     const starts = async (bosco = new WAConnection()) => {
 	bosco.logger.level = 'warn'
-	console.log(color(figlet.textSync('BLESSED-TUNA', {
+	console.log(color(figlet.textSync('DRIPS OFC', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
@@ -84,7 +84,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
  teks = `https://chat.whatsapp.com/BsI2vxSy2UxFB4IpoVLc3Y`
  bosco.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
  console.log(color('|WRN|', 'yellow'), color('ǫʀ ɪs ʀᴜɴɪɴɢ', 'blue'))
- bosco.sendMessage(`${setting.owner}@s.whatsapp.net`, `*𝙷𝚒 𝚋𝚛𝚘 , 𝙱𝙾𝚃 𝙸𝚂 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙽𝚄𝙼𝙱𝙴𝚁*\n────────────────────\n\`\`\`${JSON.stringify(bosco.user, null, 2)}\`\`\`\n────────────────────\n*𝙸𝚏 𝚝𝚑𝚎𝚛𝚎 𝚊𝚗𝚢 𝚎𝚛𝚛𝚘𝚛/𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝙱𝚘𝚝 𝚘𝚠𝚗𝚎𝚛, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘𝚜𝚒𝚗𝚐 𝚖𝚢 𝚋𝚘𝚝*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "𝙲𝚛𝚎𝚊𝚝𝚘𝚛 Drips ",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./ds.jpg'),sourceUrl:"https://wa.me/917736622139?text=Hi bro"}}})
+ bosco.sendMessage(`${setting.owner}@s.whatsapp.net`, `*𝙷𝚒 𝚋𝚛𝚘 , 𝙱𝙾𝚃 𝙸𝚂 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙽𝚄𝙼𝙱𝙴𝚁*\n────────────────────\n\`\`\`${JSON.stringify(bosco.user, null, 2)}\`\`\`\n────────────────────\n*𝙸𝚏 𝚝𝚑𝚎𝚛𝚎 𝚊𝚗𝚢 𝚎𝚛𝚛𝚘𝚛/𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝙱𝚘𝚝 𝚘𝚠𝚗𝚎𝚛, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘𝚜𝚒𝚗𝚐 𝚖𝚢 𝚋𝚘𝚝*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "𝙲𝚛𝚎𝚊𝚝𝚘𝚛 Drips ",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./ds.jpg'),sourceUrl:"https://wa.me/27634090203?text=Hi Drips"}}})
 	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'blue'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
