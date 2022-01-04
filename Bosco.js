@@ -182,8 +182,8 @@ module.exports = bosco = async (bosco, mek) => {
 		global.prefix
 		mek.message = (Object.keys(mek.message)[0] === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
 		const { text, extendedText, contact, location, liveLocation, image, video, sticker, document, audio, product } = MessageType
-		const time = moment().tz('Asia/Kolkata').format('HH:mm:ss')
-		const wib = moment.tz('Asia/Kolkata').format('HH:mm:ss')
+		const time = moment().tz('Africa/Harare').format('HH:mm:ss')
+		const wib = moment.tz('Africa/Harare').format('HH:mm:ss')
 		const content = JSON.stringify(mek.message)
 		const from = mek.key.remoteJid
 		const type = Object.keys(mek.message)[0]        
