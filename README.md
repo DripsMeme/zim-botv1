@@ -121,7 +121,7 @@ you can contact us
 # Thanks to
 * 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
 * [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
-* [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/zim-bot)
+* [`DRIPSMEMES`](https://github.com/zim-bot)
 * [`𝙰𝙲𝙷𝚄 𝚂𝙸𝚁`](https://github.com/ACHUSIR8)
 * [`𝙱𝙰𝙸𝙻𝙴𝚈𝚂`](https://github.com/zim-bot)
 
