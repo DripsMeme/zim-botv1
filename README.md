@@ -1,4 +1,12 @@
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](COMING SOON) 
+<!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Zim-Bot2+Coded+By+DripsMemes..."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 
 
 
@@ -18,20 +26,20 @@
   ### Simple Method
   
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/Zim-Bot-Qr?v=1) 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/27634090203?text=Hello%20P3P3%20Drips🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/zim-bot"><img title="Author" src="https://img.shields.io/badge/Author-DRIPS-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/27634090203?text=Hello%20P3P3%20Drips🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-DRIPSMEMES-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-<a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
+<a href="https://wa.me/27634090203"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g"><img title="Author" src="https://img.shields.io/badge/Youtube-DRIPS OFC-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
+  <a href="https://github.com/zim-bot/zim-botv1#requirements">Requirements</a> •
+  <a href="https://github.com/zim-bot/zim-botv1#simple method">Installation</a> •
+  <a href="https://github.com/zim-bot/zim-botv1#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -113,8 +121,8 @@ you can contact us
 # Thanks to
 * 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
 * [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
-* [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/pepesir)
+* [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/zim-bot)
 * [`𝙰𝙲𝙷𝚄 𝚂𝙸𝚁`](https://github.com/ACHUSIR8)
-* [`𝙱𝙰𝙸𝙻𝙴𝚈𝚂`](https://github.com/adiwajshing/Baileys)
+* [`𝙱𝙰𝙸𝙻𝙴𝚈𝚂`](https://github.com/zim-bot)
 
 
