@@ -2,13 +2,13 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Zim-Bot2+Coded+By+DripsMemes..."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Zim-BotV1+Coded+By+DripsMemes..."
             alt="Typing SVG"
         />
     </a>
 </p>
 
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=HELLO+WELCOME+GUYS+IM+JUST+21+YRS.;ONLY+WISH+YOU+THE+BEST;IN+2022)](https://git.io/typing-svg)
 
 <div align="center">
 </p>
